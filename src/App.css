@@ -7,6 +7,9 @@
   height: 40vmin;
   pointer-events: none;
 }
+.container{
+  padding: 0 1rem
+}
 
 .App-header {
   background-color: #282c34;
